@@ -34,5 +34,5 @@ Data Engineering PFE: Working on data pipelines and optimizations for my final-y
 
 📫 Let's Connect!
 
-GitHub: Fadwa Harrabi
+LinkedIn: https://www.linkedin.com/in/fadwa-harrabi-546746259/
 Email: fadwaharrabi58@gmail.com
